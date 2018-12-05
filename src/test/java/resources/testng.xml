@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Saucedemo" verbose="5">
+    <parameter name="browserName"  value="chrome"/>
+    <test name="SaucedemoRegressionTest">
+        <classes>
+            <class name="example.web.automation.LoginTestSuite" />
+            <class name="example.web.automation.E2ETestSuite" />
+        </classes>
+    </test>
+</suite>

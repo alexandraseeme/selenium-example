@@ -1,0 +1,11 @@
+*.iml
+*.ipr
+*.iws
+.idea/*
+.idea
+.allure
+allure-results
+target/classes
+target
+build
+*.log
