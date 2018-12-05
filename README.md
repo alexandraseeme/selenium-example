@@ -1,11 +1,15 @@
 # selenium-example
 
-The project serves as example of UI test automation
-Automation framework: Selenium WebDriver 3.0
-Testing framework: TestNG
-Reporting extension: Allure
+The project serves as example of UI test automation</br>
 
-The following patterns, approached and extensions are used in the project:
+Automation framework: Selenium WebDriver 3.0
+</br>
+Testing framework: TestNG
+</br>
+Reporting extension: Allure
+</br>
+
+The following patterns, approaches and extensions are used in the project:
 - Page object pattern
 - Factory approach
 - Logger (log4j)
